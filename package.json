@@ -1,0 +1,33 @@
+{
+  "name": "org.hygieiasoft.cordova.uid",
+  "version": "1.1.0",
+  "description": "Cordova plugin to get unique identifiers: UUID, IMEI, IMSI, ICCID and MAC.",
+  "cordova": {
+    "id": "org.hygieiasoft.cordova.uid",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hygieiasoft/cordova-plugin-uid.git"
+  },
+  "keywords": [
+    "cordova",
+    "uid",
+    "imei",
+    "imsi",
+    "uuid",
+    "sim",
+    "iccid",
+    "mac",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Logan Thomison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hygieiasoft/cordova-plugin-uid/issues"
+  },
+  "homepage": "https://github.com/hygieiasoft/cordova-plugin-uid#readme"
+}
